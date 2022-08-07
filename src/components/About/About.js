@@ -1,5 +1,5 @@
 import "./About.css";
-import iconImage from "../../images/logo.jpg";
+import iconImage from "../../images/logo.png";
 import githublogo from "../../images/github.png"
 
 
@@ -13,7 +13,9 @@ export const About = () => {
         </span>
         <p className="gray-text">
           I am a young full stack developer based in Rwanda. I build websites, {" "} <br></br>
-
+          I am a quick learner who is continually adapting to new technologies; 
+          I am familiar with javascript and its most well-known frameworks.
+          I'm obsessed with pixel-perfect, gorgeous interfaces and well-implemented UX.
         </p>
         <a className="" target={"_blank"} href="https://docs.google.com/document/d/1UdbNbu-poO-ep-rzcxXc6NgYEoKfFiAi/edit#">Take a look at my CV {"->"} </a>
         <a className="" target={"_blank"} href="https://github.com/benshyaka">
