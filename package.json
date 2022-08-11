@@ -19,8 +19,9 @@
     "webpack-dev-middleware": "^5.3.3"
   },
   "scripts": {
+    "dev": "croco start",
     "start": "craco start --mode production",
-    "build": "craco build",
+    "build": "craco build --mode production",
     "test": "craco test"
   },
   "eslintConfig": {
