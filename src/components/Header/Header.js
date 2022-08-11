@@ -7,7 +7,7 @@ export default function Header() {
       <header>
         <div className="row d-flex justify-content-center align-items-center m-lg-2">
           <div className="col-lg-3">
-            <img className="img-fluid rounded-3 w-75" src={profile} alt="Profile picture"/>
+            <img className="img-fluid rounded-3 w-75" src={profile} alt="Profile"/>
           </div>
           <div className="col-lg-6 ms-lg-5 p-2">
             <h1  className="header-title"> Hello! </h1>

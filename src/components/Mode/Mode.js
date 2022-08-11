@@ -1,6 +1,6 @@
 import "./Mode.css";
 import { RiSunFill } from "react-icons/ri";
-import { AiFillGithub } from "react-icons/ai";
+// import { AiFillGithub } from "react-icons/ai";
 import logo from "../../images/ben.png"
 
 export default function Mode({ handleModeChange }) {
@@ -8,7 +8,7 @@ export default function Mode({ handleModeChange }) {
     <section className="">
       <nav class="navbar navbar-expand-sm">
         <div class="container-fluid ms-5">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="/">
           <img className="img-fluid" src={logo} alt="Logo"/>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

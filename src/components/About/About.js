@@ -1,5 +1,5 @@
 import "./About.css";
-import iconImage from "../../images/logo.png";
+// import iconImage from "../../images/logo.png";
 import githublogo from "../../images/github.png"
 
 
@@ -8,8 +8,7 @@ export const About = () => {
     <section className="container container-about">
       <div className="about-left">
         <span className="purple-text">
-          ✋Hello! call me ben{" "}
-          <span className="purple-smoke-text">- Introducciòn</span>{" "}
+          ✋Hello again! call me Ben{" "}
         </span>
         <p className="gray-text">
           I am a young full stack developer based in Rwanda. I build websites, {" "} <br></br>
@@ -17,8 +16,8 @@ export const About = () => {
           I am familiar with javascript and its most well-known frameworks.
           I'm obsessed with pixel-perfect, gorgeous interfaces and well-implemented UX.
         </p>
-        <a className="" target={"_blank"} href="https://docs.google.com/document/d/1UdbNbu-poO-ep-rzcxXc6NgYEoKfFiAi/edit#">Take a look at my CV {"->"} </a>
-        <a className="" target={"_blank"} href="https://github.com/benshyaka">
+        <a className="" target={"_blank"} rel="noreferrer" href="https://docs.google.com/document/d/1UdbNbu-poO-ep-rzcxXc6NgYEoKfFiAi/edit#">Take a look at my CV {"->"} </a>
+        <a className="" target={"_blank"} rel="noreferrer" href="https://github.com/benshyaka">
           <img className="img-fluid" width={24} src={githublogo} alt="abajo" /> {"  "} Visit my github
         </a>
         <span className="white-text">
