@@ -15,7 +15,7 @@ export const Bio = () => {
     {
       year: 2022,
       description: "Andela training",
-    },
+    }
   ];
 
   return (
@@ -40,5 +40,3 @@ export const Bio = () => {
     </section>
   );
 };
-
-//Disable Spanish Spell Checker Dictionary in Workspace
