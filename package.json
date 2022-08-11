@@ -19,7 +19,7 @@
     "webpack-dev-middleware": "^5.3.3"
   },
   "scripts": {
-    "start": "craco start",
+    "start": "craco start --mode production",
     "build": "craco build",
     "test": "craco test"
   },
