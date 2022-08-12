@@ -67,7 +67,7 @@ function Project() {
               <img className="icon-figma" src={FigmaIcon} alt="" />
               Figma
             </span>
-          </p> */}s
+          </p> */}
           <div className="details-stack">
             <span className="white-text">Skills and technologies</span>
             <ul className="gray-text">
