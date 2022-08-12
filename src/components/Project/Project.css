@@ -2,15 +2,8 @@
   margin-top: 8rem;
 }
 
-.project-header {
-  margin-top: 4rem;
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .project-box {
   border-radius: 10px;
-  max-width: 60%;
   padding: 1.5rem;
   background-color: #0d6efd40;
 }

@@ -1,11 +1,23 @@
 .container-about {
   margin: 5rem auto;
-  display: flex;
+  /* display: flex; */
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
   color: var(--white-smoke-color);
 }
+
+.row{
+  /* position: relative; */
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+  margin-top: 10px;
+}
+
+
 
 .about-left {
   display: flex;
