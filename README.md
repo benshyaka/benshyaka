@@ -9,8 +9,6 @@
  - A fullstack developer based in Rwanda
  - I develop websites, and am experienced in javascript and its framework.
 
-
-
-
+Link to my Portifolio https://benshyaka.vercel.app/
 
 
