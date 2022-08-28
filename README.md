@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **Flutter, Dart and Kotline**
 
-<<<<<<< HEAD
 - 👨‍💻 All of my projects are available at [https://benshyaka.vercel.app](https://benshyaka.vercel.app)
 
 - 💬 Ask me about **React, NextJs, React Native**
