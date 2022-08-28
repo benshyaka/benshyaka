@@ -5,6 +5,7 @@ import App from './routes/App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+document.title = "Benjamin shyaka"
 root.render(
   <React.StrictMode>
     <App />
