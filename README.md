@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Shyaka</h1>
-<h3 align="center">A passionate fullstack developer from Rwanda</h3>
+<h3 align="center">A passionate fullstack developer based in Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benshyaka&label=Profile%20views&color=0e75b6&style=flat" alt="benshyaka" /> </p>
 
@@ -11,6 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart and Kotline**
 
+<<<<<<< HEAD
 - 👨‍💻 All of my projects are available at [https://benshyaka.vercel.app](https://benshyaka.vercel.app)
 
 - 💬 Ask me about **React, NextJs, React Native**
@@ -18,6 +19,8 @@
 - 📫 How to reach me **benshyaka99@gmail.com**
 
 - 📄 Know about my experiences [https://rb.gy/hpaj0a](https://rb.gy/hpaj0a)
+=======
+Link to my Portifolio https://benshyaka.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
