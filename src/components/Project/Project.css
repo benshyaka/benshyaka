@@ -26,6 +26,18 @@
   flex-wrap: wrap;
 }
 
+.tools{
+  margin-top: 1rem;
+  background-color: rgba(255, 255, 255, 0.062);
+  padding: 2rem;
+}
+
+.tools a{
+  margin-top: 1rem;
+  background-color: rgba(255, 255, 255, 0.137);
+  padding: 2rem;
+}
+
 .details-left {
   margin: 0 2rem;
 }
